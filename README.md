@@ -9,7 +9,6 @@ I am interested in Solidity, Web3, AWS and working on 💖 to grow my knowledge 
 - 🌱 I’m currently learning BlockChain Development, Solution Architect, DevOps Engineering.
 - 💬 Ask me about C++, Go.
 - ⚡ Fun fact: I 💖 to code 24x7.
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=KIRA5000.KIRA5000)
 
 <br/>
 
