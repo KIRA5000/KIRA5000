@@ -35,10 +35,6 @@ Languages and Tools🛠:
 
 
 
-<a href="https://github.com/KIRA5000">
-  <img align="left" alt="Dave's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
-</a>
-
 <a href="https://www.instagram.com/kira__5000/">
   <img align="left" alt="Dave's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
